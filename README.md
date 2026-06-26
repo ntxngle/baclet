@@ -7,15 +7,17 @@ Obviously this is not a medical device. You input body params on setup, then can
 
 ## Photos
 
-![alt text](image-4.png)
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](baczine.jpg)
+<img width="1404" height="1060" alt="image" src="https://github.com/user-attachments/assets/a12591c5-d665-4722-b003-ade0c5d9be32" />
+<img width="1330" height="1021" alt="image" src="https://github.com/user-attachments/assets/ad121453-4bb1-4b6a-8392-d563cf99eafb" />
+<img width="517" height="480" alt="image" src="https://github.com/user-attachments/assets/d2519360-ad43-4daf-b8e0-446919f627bf" />
+<img width="516" height="465" alt="image" src="https://github.com/user-attachments/assets/041ed73f-7e2a-4f8d-8a33-bd61df054ccb" />
+<img width="1063" height="751" alt="image" src="https://github.com/user-attachments/assets/f42629a0-8121-4cff-bdce-0c6da39bacca" />
+<img width="1080" height="1656" alt="image" src="https://github.com/user-attachments/assets/570502e1-bad9-47d1-bde5-ce8393b9f652" />
 
 ## How it works
+Again to be clear this is not a breathalyzer. You enter the drinks manually. Then, based parameters you've entered like weight, gender, it calculates the BAC level via the widmark formula. 
 
+Drink inputs are timestamped from RTC and put into flash storage so it can be access and included in calculations on wake.
 
 
 ## BOM
