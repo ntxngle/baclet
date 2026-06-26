@@ -1,0 +1,20 @@
+"name","quantity","Footprint",link,"Price"
+PCB,1,,JLC files in repo,2
+Battery,1,,https://es.aliexpress.com/item/1005012320035574.html,6
+Case,1,,3d print it,1
+PCF8523T,"1","SOIC-8_3.9x4.9mm_P1.27mm",https://www.lcsc.com/product-detail/C2651516.html,"1.19"
+100k,"8","R_0603_1608Metric",https://www.lcsc.com/product-detail/C2906980.html,"0.38"
+RP2040,"1","QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm",https://www.lcsc.com/product-detail/C2040.html,"0.99"
+1N4148,"3","D_SOD-323F",https://www.lcsc.com/product-detail/C2128.html,"0.59"
+TPS63900,"1","WSON-10-1EP_2.5x2.5mm_P0.5mm_EP1.2x2mm_ThermalVias",https://www.lcsc.com/product-detail/C1518762.html,"1.21"
+W25Q32JVSS,"1","SOIC-8_5.3x5.3mm_P1.27mm",https://www.lcsc.com/product-detail/C179173.html,"2.49"
+NPN C22400355,"4","SOT-23",https://www.lcsc.com/product-detail/C22400355.html,"0.55"
+2169900002,"1","USB-SMD_2169900002",https://www.lcsc.com/product-detail/C3197869.html,"1.38"
+2.2uH SRN3015TA-2R2M,"1","L_APV_ANR3010",https://www.lcsc.com/product-detail/C5362464.html,"0.61"
+C20625731,"1","Crystal_SMD_3225-4Pin_3.2x2.5mm",https://www.lcsc.com/product-detail/C20625731.html,"1.47"
+USBLC6-2SC6,"1","SOT-23-6",https://www.lcsc.com/product-detail/C7519.html,"0.87"
+MLT-5020,"1","BUZ-SMD_L5.0-W5.5-P4.60",https://www.lcsc.com/product-detail/C94598.html,"0.44"
+MCP73831-2-OT,"1","SOT-23-5",https://www.lcsc.com/product-detail/C635037.html,"1.58"
+B3F-1052,"3","KEY-TH_4P-L6.0-W6.0-P4.50",https://www.lcsc.com/product-detail/C87037.html,"0.92"
+HS13L03W2C01,"1","OLED-TH_L35.4-W33.5_HS13L03W2C01",https://www.lcsc.com/product-detail/C7465997.html,"4.98"
+Total,,,,32.54
