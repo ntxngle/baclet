@@ -5,6 +5,8 @@ A mobile, battery powered trinket that measures BAC (Blood AlcoholContent) by tr
 
 Obviously this is not a medical device. You input body params on setup, then can log each drink by volume and percentage, and it calculates BAC. It has chargering, a buzzer, USB serial, and a nice 1.28 OLED, all behind an auto-off switch to save power.
 
+Being the science minded individual I am, I have always approached consumption of this nature from a data driven mindset: I logged, sometimes more honestly than others, my drinks, and monitored my BAC level in the app. While I wouldn't say this pastime is exactly a hobby or passion, it's a part of my life and I figured it would be fun to try to connect the two disciplines. Thats why I made this brilliant contraption.
+
 ## Photos
 
 <img width="1404" height="1060" alt="image" src="https://github.com/user-attachments/assets/a12591c5-d665-4722-b003-ade0c5d9be32" />
@@ -18,6 +20,8 @@ Obviously this is not a medical device. You input body params on setup, then can
 Again to be clear this is not a breathalyzer. You enter the drinks manually. Then, based parameters you've entered like weight, gender, it calculates the BAC level via the widmark formula. 
 
 Drink inputs are timestamped from RTC and put into flash storage so it can be access and included in calculations on wake.
+
+It was designed to be a thin as possible, with all SMD compontents located on one side, and the screen and buttons on the other. Barring the battery, this could have easily been a centimeter wide, but of course I'm not apple and cannot afford a custom designed battery to fit in the free space perfectly. I'm quite proud of the PCB design however, its pretty compact for the time it took me to make.
 
 
 ## BOM
